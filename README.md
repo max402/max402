@@ -6,7 +6,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=max402&theme=tokyonight&hide_border=true)
 
-![Snake animation](https://raw.githubusercontent.com/max402/max402/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/max402/max402/output/github-contribution-grid-snake-dark.svg)
 
 
 
