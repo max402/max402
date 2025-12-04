@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=max402&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max402&layout=compact&theme=tokyonight)
+![My user statistics](../output/images/userstats.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=max402&theme=tokyonight&hide_border=true)
 
