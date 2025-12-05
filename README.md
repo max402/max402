@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-![My user statistics](../output/images/userstats.svg)
+![My user statistics](../output/userstats.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=max402&theme=tokyonight&hide_border=true)
 
-![Snake animation](https://raw.githubusercontent.com/max402/max402/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](../output/github-contribution-grid-snake-dark.svg)
 
 
 
